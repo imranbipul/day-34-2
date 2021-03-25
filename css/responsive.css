@@ -1,0 +1,120 @@
+@media (max-width: 1250px) {
+    .fixed-width {
+        width: 100%;
+        max-width: 100%;
+        box-sizing: border-box;
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+}
+@media (max-width: 1100px) {
+    .div-right ul{
+        padding-right: 20px;
+    }
+    .web-design {
+        margin-right: 10px;
+    }
+    .web-design h3 {
+        font-size: 17px;
+    }
+    .web-design p {
+        font-size: 14px;
+    }
+    .fixed-width {
+        padding-right: 0px;
+    }
+}
+@media (max-width: 992px) {
+    .image11 img {
+        max-width: 284px;
+        margin-top: 25px;
+    } 
+    .div-right ul li a {
+        padding: 17px 8px;
+        font-size: 16px;
+    }
+    .div-right ul{
+        padding-right: 20px;
+    }
+    .web-design {
+        height: 163px;
+    }
+    .content {
+        width: 58%;
+        margin: 5px 25px;
+    }
+    .location {
+        width: 29%;
+    }
+}
+@media (max-width: 830px) {
+    .headerdiv {
+        margin-top: -8px;
+    }
+    .div-left {
+        float: inherit;
+        width: 100%;
+        text-align: center;
+    }
+    .div-right ul li a {
+        padding: 17px 10px;
+        font-size: 16px;
+    }
+    .div-right ul{
+        padding-right: 20px;
+    }
+    .div-right {
+        float: inherit;
+        width: 100%;
+    }
+    .div-right ul {
+        text-align: center;
+    }
+    .web-design {
+        width: 47%;
+        float: left;
+       margin-bottom: 12px;}
+    .image11 img {
+        float: inherit;
+        max-width: 100%;
+        padding-right: 20px;
+        box-sizing: border-box;
+    }
+    .content {
+        width: 100%;
+        margin: 20px 0px;
+        float: inherit;
+    }
+}
+@media (max-width: 720px) {
+    .location {
+        width: 100%;
+        text-align: left;
+        margin: 14px 0px;
+    }
+    .contact p {
+        margin-bottom: -24px;
+    }
+    .welcome h1 {
+        font-size: 42px;
+    }
+}
+@media (max-width: 400px) {
+    .web-design {
+        width: 100%;
+        float: inherit;
+    }
+    .service-item {
+        padding-right: 20px;
+    }
+    .welcome h1 {
+        font-size: 39px;
+    }
+
+}
+
+
+
+
+
+
